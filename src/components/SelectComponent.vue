@@ -1,7 +1,7 @@
 <template>
   <div class="mb-3">
     <label class="form-label">{{labelName}}</label>
-    <select  class="form-select" v-model="value" v-on:change="changeEvent" required>
+    <select  class="form-select" v-model="value" required>
       <option
           v-for="option in options"
           :value="option"
@@ -16,7 +16,7 @@
 <script>
 export default {
   name: "SelectComponent",
-  props: ['labelName', 'modelValue', 'changeEvent', 'options'],
+  props: ['labelName', 'modelValue', 'options'],
   emits: ['update:modelValue'],
   computed: {
     value: {
