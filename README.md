@@ -14,10 +14,9 @@
 ![image](https://user-images.githubusercontent.com/57320850/195617894-e9d72cfc-08dd-4152-94b9-2798ee7498d7.png)
 
 ## Форма на Vue.js
-![image](https://user-images.githubusercontent.com/57320850/195618930-26dd8392-7c2a-457c-8658-437eb7f21d9c.png)
 
 Список цехов зависит от выбранного города, список сотрудников зависит от выбранного цеха
-![image](https://user-images.githubusercontent.com/57320850/195618411-c67e2faa-351d-425e-b3f0-2606a39493f8.png)
 
 Данные сохраняются в Cookie в формате JSON и выводятся через alert()
-![image](https://user-images.githubusercontent.com/57320850/195618655-f09af3bd-be9c-4843-9296-9446afd35d06.png)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/57320850/195667149-6a251834-3be8-4d53-ad4f-7fa8c93aa6b9.gif)
